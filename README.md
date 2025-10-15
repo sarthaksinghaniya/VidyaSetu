@@ -1,6 +1,5 @@
 # 🎓 Vidya Setu - AI Internship Recommendation Engine
 
-**Smart India Hackathon 2025 Project**
 
 ![Vidya Setu Logo](https://img.shields.io/badge/Vidya%20Setu-AI%20Powered-blue) ![License](https://img.shields.io/badge/License-MIT-green) ![Version](https://img.shields.io/badge/Version-1.0.0-orange)
 
@@ -86,7 +85,7 @@ npm run db:push
 ./start.sh
 ```
 
-## 📊 Platform Statistics
+## 📊 Platform Statistics prediction
 
 - **50,000+** Students Registered
 - **2,500+** Active Employers
@@ -288,7 +287,7 @@ We welcome contributions from the community! Here's how you can help:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](licence) file for details.
 
 ## 🙏 Acknowledgments
 
