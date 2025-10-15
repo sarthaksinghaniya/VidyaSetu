@@ -292,7 +292,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- **Smart India Hackathon 2025** for the opportunity
 - **PM Internship Scheme (PMISP)** for the vision
 - **Digital India Initiative** for the inspiration
 - **All Contributors** who made this project possible
@@ -302,10 +301,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For support, questions, or feedback:
 
-- 📧 **Email**: support@vidya-setu.gov.in
-- 📚 **Documentation**: [Project Wiki](wiki-link)
-- 🐛 **Issues**: [GitHub Issues](issues-link)
-- 💬 **Discussions**: [GitHub Discussions](discussions-link)
+- 📧 **Email**: teamhanubell@gmail.com
+- 📚 **Documentation**: [Project Wiki](teamhanu.netlify.app)
+- 🐛 **Issues**: [GitHub Issues](https://chat.whatsapp.com/BW9gSgo8Gsx7vnOYddT6G8)
+- 💬 **Discussions**: [GitHub Discussions](https://chat.whatsapp.com/BW9gSgo8Gsx7vnOYddT6G8)
 
 ## 🌟 Star History
 
@@ -313,6 +312,6 @@ For support, questions, or feedback:
 
 ---
 
-**Built with ❤️ for India's Future Talent**
+**Built with ❤️ for India's YOUTH**
 
 *"Education is the most powerful weapon which you can use to change the world."* - Dr. A.P.J. Abdul Kalam
